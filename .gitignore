@@ -1,0 +1,26 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Node / JS (por si usas frontend o herramientas con npm)
+node_modules/
+dist/
+.vite/
+
+# Archivos de entorno y credenciales
+.env
+.env.local
+
+# Archivos de base de datos local / SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
