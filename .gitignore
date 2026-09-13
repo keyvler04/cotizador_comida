@@ -5,7 +5,7 @@ env/
 __pycache__/
 *.pyc
 
-# Node / JS (por si usas frontend o herramientas con npm)
+# Node / JS 
 node_modules/
 dist/
 .vite/
